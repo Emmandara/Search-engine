@@ -1,0 +1,14 @@
+My program needs to be executed within a python IDE. It will output a command line into the console and retive an input from the user.
+The input(a query) will be processed and the code will output a ranked list of files that best represented what was searched for from 1-10.
+
+Files/Directories:
+
+In order to run the code you need to ensure that the text file is in the same folder as the python file, also ensure that the file 'videogame' exists within your hard drive
+
+Libraries:
+In order for the code to work you need to make sure that you install the libraries listed beloe:
+bs4
+NLTK
+sklaern/scikit-learn
+numpy
+re
